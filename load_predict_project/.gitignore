@@ -1,0 +1,13 @@
+# IDE
+.idea/
+
+# Logs
+log/
+
+# Model files (too large for GitHub)
+model/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
